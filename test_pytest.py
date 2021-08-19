@@ -1,5 +1,8 @@
 import Tarea1SousaWu as t  # importar el codigo de funciones
 import random  # importar la libreria random
+# ERR1x2 -3 Los casos negativos si esperan el codigo de error dado
+# ERR2x2 -5 Los casos positivos no me prueban que las operaciones se dieran
+# bien
 
 e11 = "Se detecto un caracter que no es un numero positivo"  # mensaje error 11
 e13 = "Se detecto un caracter que no es un numero positivo"  # mensaje error 13
